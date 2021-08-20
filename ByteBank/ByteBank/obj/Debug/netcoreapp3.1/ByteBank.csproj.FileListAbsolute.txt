@@ -1,0 +1,13 @@
+C:\Users\TREINAMENTO02\Desktop\ByteBank o\ByteBank\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.exe
+C:\Users\TREINAMENTO02\Desktop\ByteBank o\ByteBank\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.deps.json
+C:\Users\TREINAMENTO02\Desktop\ByteBank o\ByteBank\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.runtimeconfig.json
+C:\Users\TREINAMENTO02\Desktop\ByteBank o\ByteBank\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.runtimeconfig.dev.json
+C:\Users\TREINAMENTO02\Desktop\ByteBank o\ByteBank\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.dll
+C:\Users\TREINAMENTO02\Desktop\ByteBank o\ByteBank\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.pdb
+C:\Users\TREINAMENTO02\Desktop\ByteBank o\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.csproj.AssemblyReference.cache
+C:\Users\TREINAMENTO02\Desktop\ByteBank o\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.AssemblyInfoInputs.cache
+C:\Users\TREINAMENTO02\Desktop\ByteBank o\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.AssemblyInfo.cs
+C:\Users\TREINAMENTO02\Desktop\ByteBank o\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\TREINAMENTO02\Desktop\ByteBank o\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.dll
+C:\Users\TREINAMENTO02\Desktop\ByteBank o\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.pdb
+C:\Users\TREINAMENTO02\Desktop\ByteBank o\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.genruntimeconfig.cache
